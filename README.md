@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ/hub)
-- Live Site URL: [Live Site](https://your-live-site-url.com](https://nicopowell-social-links-profile.netlify.app/)
+- Live Site URL: [Live Site](https://nicopowell-social-links-profile.netlify.app)
 
 ### Built with
 
